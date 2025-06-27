@@ -1,5 +1,5 @@
 //---------------------------------------------------------
-const matchMedia=window.matchMedia("(max-width:1022px)");
+const matchMedia=window.matchMedia("(min-width:431px)");
 const navbarBody=document.getElementById("navbarBody");
 const navbarBodyMobile=document.getElementById("navbarBodyMobile");
 
